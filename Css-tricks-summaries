@@ -4,3 +4,8 @@
   https://www.freecodecamp.org/chinese/news/how-to-center-a-div-with-css-10-different-ways/ (centre div)
 
 2.while changing ('back-ground-color') attribute, only padding and content will be affected.
+
+3.attributes review:
+  float:
+  flex://block:
+  inherit:
