@@ -1,2 +1,6 @@
 1.how to make a css element centre :
   https://developer.aliyun.com/article/618171 (15 ways)
+  https://www.w3cschool.cn/css/css-center.html (6 ways)
+  https://www.freecodecamp.org/chinese/news/how-to-center-a-div-with-css-10-different-ways/ (centre div)
+
+2.while changing ('back-ground-color') attribute, only padding and content will be affected.
