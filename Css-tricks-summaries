@@ -9,3 +9,5 @@
   float:
   flex://block:
   inherit:
+
+3.！！！！about the black input outline,you shold forever make its attribute like this: outlie:none, it would make your input area be more beautiful.
